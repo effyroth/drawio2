@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-07T02:10:34.246Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ntEGHLGmXeQWPTLGs-d0" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T07:12:11.808Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="H9jejFrMPL8U_TYOF71C" version="12.1.8" type="github" pages="1">
   <diagram id="yZJRV0GO1RGtg8hs4W5D" name="Page-1">
-    <mxGraphModel dx="2062" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -680,6 +680,63 @@
         </mxCell>
         <mxCell id="juhhppIBEXEbaZW28vqw-252" value="pangu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2501" y="2990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juhhppIBEXEbaZW28vqw-255" target="juhhppIBEXEbaZW28vqw-256">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-255" value="platform:favorka&lt;br&gt;bizname:banner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2231" y="3290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-256" value="&lt;pre style=&quot;font-family: &amp;#34;dejavu sans mono&amp;#34; ; font-size: 10px&quot;&gt;{&lt;br style=&quot;font-size: 10px&quot;&gt;  &quot;bizName&quot;:&quot;favorka_banner&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;  &quot;bizConfig&quot;: {&lt;br style=&quot;font-size: 10px&quot;&gt;    &quot;bizType&quot;: &quot;banner&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;    &quot;fileGenerateConfig&quot;: {&lt;br style=&quot;font-size: 10px&quot;&gt;      &quot;isZip&quot;:&lt;span style=&quot;font-weight: bold ; font-size: 10px&quot;&gt;true&lt;/span&gt;,&lt;br style=&quot;font-size: 10px&quot;&gt;      &quot;fileType&quot;: &quot;excel&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;      &quot;fileName&quot;: &quot;单sheet下载横幅样式&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;      &quot;sheetConfigs&quot;: [&lt;br style=&quot;font-size: 10px&quot;&gt;        {&lt;br style=&quot;font-size: 10px&quot;&gt;          &quot;dataAccesser&quot;: &quot;banner&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;          &quot;device&quot;: &quot;mobile&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;          &quot;sheetName&quot;: &quot;修改横幅样式&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;          &quot;titles&quot;: [&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;账户ID（必填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;横幅样式加密ID（必填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;推广计划名称（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;当前图片1预览URL（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;修改后图片1（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;图片1访问URL（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;当前图片2预览URL（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;修改后图片2（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;图片2访问URL（选填）&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;横幅样式状态&quot;,&lt;br style=&quot;font-size: 10px&quot;&gt;            &quot;审核未通过原因&quot;&lt;br style=&quot;font-size: 10px&quot;&gt;          ]&lt;br style=&quot;font-size: 10px&quot;&gt;        }&lt;br style=&quot;font-size: 10px&quot;&gt;      ]&lt;br style=&quot;font-size: 10px&quot;&gt;    }&lt;br style=&quot;font-size: 10px&quot;&gt;  }&lt;br style=&quot;font-size: 10px&quot;&gt;}&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="3400" width="302" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-257" value="input" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2231" y="3270" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-259" value="favorka_banner" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2301" y="3365" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-260" value="favorka_banner.json" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="3380" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-262" value="&lt;pre&gt;&lt;font face=&quot;dejavu sans mono&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;{&lt;br/&gt;  &quot;账户ID（必填）&quot;:{&lt;br/&gt;    &quot;field&quot;:&quot;accountId&quot;,&lt;br/&gt;    &quot;accesser&quot;:&quot;account&quot;&lt;br/&gt;  },&lt;br/&gt;  &quot;推广计划名称（选填）&quot;: {&lt;br/&gt;    &quot;field&quot;:&quot;planName&quot;,&lt;br/&gt;    &quot;accesser&quot;:&quot;plan&quot;&lt;br/&gt;  },&lt;br/&gt;&lt;br/&gt;  &quot;横幅样式加密ID（必填）&quot;:{&quot;field&quot;: &quot;bannerStyleId&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;当前图片1预览URL（选填）&quot;:{&quot;field&quot;: &quot;picUrl1&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;修改后图片1（选填）&quot;:{&quot;field&quot;: null},&lt;br/&gt;&lt;br/&gt;  &quot;图片1访问URL（选填）&quot;:{&quot;field&quot;: &quot;picVisitUrl1&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;当前图片2预览URL（选填）&quot;:{&quot;field&quot;: &quot;picUrl2&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;修改后图片2（选填）&quot;:{&quot;field&quot;: null},&lt;br/&gt;&lt;br/&gt;  &quot;图片2访问URL（选填）&quot;:{&quot;field&quot;: &quot;picVisitUrl2&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;横幅样式状态&quot;:{&quot;field&quot;: &quot;status&quot;},&lt;br/&gt;&lt;br/&gt;  &quot;审核未通过原因&quot;:{&quot;field&quot;: &quot;refuseReason&quot;}&lt;br/&gt;&lt;br/&gt;}&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2535.5" y="3400" width="375" height="410" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-263" value="banner.json" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2535.5" y="3380" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="juhhppIBEXEbaZW28vqw-265" target="juhhppIBEXEbaZW28vqw-262">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-265" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="3550" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-267" value="banner" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2475" y="3532" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-268" value="&lt;pre&gt;&lt;font face=&quot;dejavu sans mono&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;{&lt;br/&gt;  &quot;accesser&quot;: &quot;plan&quot;,&lt;br/&gt;  &quot;downloadType&quot;:&quot;plan&quot;,&lt;br/&gt;  &quot;linkKey&quot;:&quot;cpcPlanId&quot;,&lt;br/&gt;  &quot;bizLinkConfigs&quot;:[&lt;br/&gt;    {&lt;br/&gt;      &quot;bizType&quot;:&quot;banner&quot;,&lt;br/&gt;      &quot;linkKey&quot;:&quot;planId&quot;&lt;br/&gt;    }&lt;br/&gt;  ]&lt;br/&gt;}&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="3400" width="189" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-269" value="plan.json" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="3380" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="juhhppIBEXEbaZW28vqw-272" target="juhhppIBEXEbaZW28vqw-268">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-272" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2573" y="3497" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-274" value="plan" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2945" y="3481" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-275" value="连接数据配置" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="3068" y="3325" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-276" value="数据访问配置" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2667" y="3329" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="juhhppIBEXEbaZW28vqw-277" value="下载业务配置" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2076" y="3343" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
